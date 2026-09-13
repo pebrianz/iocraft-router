@@ -1,0 +1,11 @@
+[package]
+name = "iocraft-router"
+description = "router for iocraft."
+license = "MIT"
+repository = "https://github.com/pebrianz/iocraft-router"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hashbrown = "0.17.1"
+iocraft = "0.9.1"
